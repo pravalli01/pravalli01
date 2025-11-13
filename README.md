@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Pravallika
 
+![Profile Views](https://komarev.com/ghpvc/?username=pravalli01&label=Profile%20Views&color=0e75b6&style=flat)
+
 **DevOps & Cloud Engineer | Node.js | SAP BTP | Cloud Foundry**
 
 I’m passionate about building, automating, and deploying scalable applications.  
